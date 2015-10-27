@@ -1,0 +1,41 @@
+Source,F:/kicad/projects/AVTokyo2015/AVTokyo-2015.sch
+Kicad Rev,Eeschema 4.0.0-rc1-stable
+Generated Date,10/28/2015 12:39:04 AM
+
+Title,AVTokyo 2015 Badge
+Company,DIY-SciB.org / TokyoHackerSpace
+Revision,Not Set
+Date Issue,2015-10-05
+
+Reference,Value,Library,Library Ref
+D1, 2008,device,LED
+D2,2009,device,LED
+D3,2010,device,LED
+D4,2011,device,LED
+D5,2012,device,LED
+D6,2013,device,LED
+D7,2014,device,LED
+D8,2015,device,LED
+R1,470,device,R
+R2,470,device,R
+R3,470,device,R
+R4,470,device,R
+R5,470,device,R
+R6,470,device,R
+R7,470,device,R
+R8,470,device,R
+IC1,ATMEGA328-P,atmel,ATMEGA328-P
+BT1,CR2032 Bat,device,Battery
+R9,10K,device,R
+C1,0.1uF,device,C
+P1,UART,conn,CONN_01X06
+C2,0.1uF,device,C
+C3,22pF,device,C
+C4,22pF,device,C
+Y1, ,device,Crystal_Small
+ICSP1, ,conn,CONN_02X03
+SW2,MODE,device,SW_PUSH
+SW3,ACTION,device,SW_PUSH
+R10,10K,device,R
+R11,10K,device,R
+P2,CONN_02X04,conn,CONN_02X04
